@@ -6,11 +6,13 @@
 - [VSCode](https://code.visualstudio.com/)
 - Plugin for VSCode:[CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 
-## One File Demo
+## Multi-Files_Floders
 - Directory Structure
 ```
 CMakeProiectDemo
 ├─CMakeLists.txt
 ├─main.c
-└─README.md
+└─math_lib
+    ├─mathlib.c
+    └─mathlib.h
 ```
